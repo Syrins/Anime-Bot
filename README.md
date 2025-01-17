@@ -122,3 +122,5 @@ Eğer bir sorunla karşılaşırsanız, yukarıdaki adımları kontrol ederek so
 ---
 
 **Uyarı**: Bu script sadece **tranimeizle.top** gibi uygun web sitelerinde çalışır ve video URL'lerini izinsiz bir şekilde toplamaz. Kullanım sırasında yerel yasalar ve web sitesi politikalarına dikkat ediniz.
+
+Reklam : https://animtube.com/
