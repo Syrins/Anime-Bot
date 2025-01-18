@@ -63,7 +63,7 @@ Webhook oluşturabilmek için sunucuda **yönetici** yetkilerine sahip olmanız 
 
 ### 5. **Webhook URL'sini Script'e Ekleyin**
 
-1. Kopyaladığınız **Webhook URL**'sini, scriptteki **customWebhookUrl** alanına yapıştırarak kaydedin.
+1. Kopyaladığınız **Webhook URL**'sini, tranimeizle sitesinde açılan **WebhookUrl** alanına yapıştırarak enter tuşuna basıp kaydedin.
 2. Artık videolar, bu URL üzerinden Discord kanalınıza gönderilecektir.
 
 ---
